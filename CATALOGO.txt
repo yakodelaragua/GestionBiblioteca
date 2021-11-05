@@ -1,0 +1,40 @@
+﻿LIBRO 1254 ITU-SUS-075 Honetara_ezkero Arantxa_Iturbe Susa_literatura Ipuin_maleziatsu_hauetan_ere_ustegabeko_asko_izango_dira... false
+LIBRO 1258 ELO-ELK-327 Sprako_tranbia Unai_Elorriaga Elkar Benetako_harribitxi_bat_da_SPrako_tranbia,_lehen_obra_batean... false
+LIBRO 1259 ARR-TXA-171 Gu_orduko_hauek Garazi_Arrula Txalaparta 8_ipuinez_osatua_da_autoraren_lehen_liburua,_eta_azken_ipuinak_ematen_dio_izenburua_obrari. true Maite 2019-04-17 2019-04-29
+DICCIONARIO 678 EH-002 Elhuyar_Hiztegia Elhuyar Elhuyar_arg. 1 Euskara-Gaztelania
+LIBRO 1021 PTx-001 Printze_Txikia Antoine_de_Saint-Exupery Txertoa Ipuina false
+REVISTA 1045 DON2019-001 Donostia_2019 1 981-UU-003
+DICCIONARIO 1234 FREU-001 Frantses-euskara_Hiztegia A._Abbadie Erein 1 Euskara-Frantses
+LIBRO 1243 DUE-PLA-001 Las_hijas_del_capit�n Maria_Due�as Planeta Las_hijas_veintea�eras_del_capitan_muerto_accidentalmente,_les_obliga_a_asumir_las_riendas_del_negocio_familiar. false
+LIBRO 1244 LAC-MAE-359 La_bruja Camilla_Lackberg Maeva "Desaparicion_de_una_ni�a_de_4_a�os_a_las_afueras_del_pueblo. false
+LIBRO 1246 MAR-TRA-796 El_ultimo_akelarre Ibon_Martin Travel_Bug Un_joven_estudiante_de_Deusto_pende_envuelto_en_llamas_de_la_chimenea_del_parque_Etxeberria. false
+LIBRO 1247 ARA-TUS-271 Patria Fernando_Aramburu Tusquets Tras_el_abandono_de_las_armas_de_ETA,_Bittori_decide_volver_a_la_casa_que_abandono_tras_el_asesinato_de_su_marido. false
+LIBRO 1345 MAR-TRA-710 La_fabrica_de_las_sombras Ibon_Martin Travel_Bug Una_joven_aparece_ahorcada_en_la_fabrica_de_armas_de_Orbaizeta. false
+LIBRO 1355 MIN-ELK-686 Nola_heldu_naiz_ni_honaino Kattalin_Miner Elkar Enpresan_mailaz_eta_soldataz_igotzea,_herentzia_bat_jasotzea,... true Alberto 2019-04-17 2019-04-29
+DVD 1367 MB-001 Sant_Andreu_Jazz_Band Temps_Records Joan_Txamorro false
+DICCIONARIO 1445 LU-001 Diccionario_Frances Libreria_Universitaria Libreria_Universitaria 1 Espa�ol_Frances
+DVD 1545 A3-001 Los_Hombre_De_Paco Paco_Tous_Hugo_Silva Antena3 false
+DICCIONARIO 1645 OU-001 New_Oxford_DictionarY_Of_English Oxford_University_Press Oxford_University_Press 1 English
+LIBRO 1671 PTx-002 El_Principito Antoine_de_Saint-Exupery Txertoa Cuento false
+ENCICLOPEDIA 1723 HARL-001 Diccionario_Enciclopedico Planeta Planeta 9 General
+DICCIONARIO 1782 ES-001 Diccionario_RAE S.L.U._ESPASA_LIBROS S.L.U._ESPASA_LIBROS 1 Espa�ol
+CD 1812 CD-002 Los_Mejores_100_Discos JordiSoley_Iker_Seisdedos_Diego_A._Manrique Varios false
+LIBRO 2340 GAR-PLAN-002 Los_ritos_del_agua Eva_Garcia_Saenz_de_Urturi Planeta La_primera_novia_de_Kraken_fue_asesinada_estando_embarazada_y_fue_ejecutada_con_un_ritual_de_hace_m�s_de_2600_a�os. true Maite 2019-01-24 2019-02-05
+LIBRO 2341 MAR-TRA-001 La_jaula_de_sal Ibon_Martin Travel_Bug Un_salvaje_crimen_golpea_Pasaia._Todo_apunta_a_un_crimen_repetido. false
+LIBRO 2437 GAR-PLAN-001 El_silencio_de_la_ciudad_blanca Eva_Garcia_Saenz_de_Urturi Planeta Tasio_el_arqueologo_esta_a_punto_de_salir_de_presion_y_se_reanudan_los_crimenes. false
+REVISTA 3419 C-001 Coches2000 88 41304-74773D
+REVISTA 3420 C-002 Coches2000 89 41304-74773D
+LIBRO 3624 RED-PLAN-001 Todo_esto_te_dar� Dolores_Redondo Planeta Una_muerte_cuyo_caso_se_ha_cerrado_con_demasiada_rapidez. false
+DVD 5567 ASAD-001 izenburua ekoizlea zuzendaria false
+ENCICLOPEDIA 7452 HARL-001 Harluxet Elhuyar Elhuyar_arg. 12 Euskara
+LIBRO 1356 URI-SUS-430 Mussche Kirmen_Uribe Susa_literatura Literaturarako_grinaz,_bizipozez_amodioan,_Erresistentzian_borrokan,... false
+LIBRO 1357 GAB-ELK-920 Connemara_gure_bihotzetan Julen_Gabiria Elkar Txemak_galdu_egin_du_bere_neska-laguna,_Eider,_auto_istripu_batean. false
+LIBRO 1360 LER-ERE-469 Horma Anjel_Lertxundi Erein Itzultzailea_da_nobela_honetako_narratzailea. false
+CD 8342 CD-001 izenburua ekoizlea interpretea false
+REVISTA 9564 A-001 izenburua 185 985673-A
+LIBRO 1248 SIE-PLA-115 El_fuego_invisible Javier_Sierra Planeta Un_joven_profesor_de_Dublin_se_ve_envuelto_en_una_misteriosa_trama_Debido_a_un_objeto_misterioso. false
+LIBRO 1250 ROD-SUS-068 Bihotz_handiegia Eider_Rodriguez Susa_literatura Arroztasun_sentipena_dute_Eider_sei_ipuinetako_pertsonaiek... true Xabier 2019-01-24 2019-02-05
+LIBRO 1252 ALB-SUS-020 Jenisjoplin Uxue_Alberdi Susa_literatura Baldintza_makurrei_aurre_eginez_zaildutakoa_da_Nagore_Vargas... false
+LIBRO 1253 LAD-ELK-493 Arotzaren_eskuak Alberto_Ladron Elkarlanean_SL Ia_ezagutzen_ez_zuen_aitonak_herentzian_mendian_galdutako_etxe... false
+DICCIONARIO 232 EH-001 Elhuyar_Hiztegia Elhuyar Elhuyar 1 Euskara-Gaztelania
+DVD 563 MB-001 Musikaz_blai Elkar Itoiz false
